@@ -18,11 +18,11 @@ FarmFlow is a mobile application designed to optimize the milk collection proces
 
 | Login Screen | Registration Screen | Farmer Collector Selection |
 |--------------|---------------------|---------------------------|
-| <img src="screenshots/login.png" width="200"> | <img src="screenshots/registration.png" width="200"> | <img src="screenshots/farmer_selection.png" width="200"> |
+| <img src="assets/login_screen.png" width="200"> | <img src="assets/registration_screen.png" width="200"> | <img src="assets/select_collector.png" width="200"> |
 
 | Collector Requests | Route Optimization | Profile Screen |
 |--------------------|--------------------|----------------|
-| <img src="screenshots/collector_requests.png" width="200"> | <img src="screenshots/route.png" width="200"> | <img src="screenshots/profile.png" width="200"> |
+| <img src="assets/farmer_scheduled_pickup.png" width="200"> | <img src="assets/distributor_pickup_route_navigation.png" width="200"> | <img src="assets/distributor_profile.png" width="200"> |
 
 ## Technologies Used
 
