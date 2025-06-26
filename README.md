@@ -78,11 +78,6 @@ FarmFlow is a mobile application designed to optimize the milk collection proces
     - **GraphHopper API Key**: For route optimization
     - **Android Studio**: For emulator or physical device testing
 
-<!-- 9. **Limitations**
-    - Transaction system is simulated and not fully implemented in the backend
-    - Currently supports Android only; iOS support is not yet implemented
-    - Requires stable internet for Firebase and GraphHopper API interactions -->
-
 9. **Future Enhancements**
     - Implement full backend transaction processing
     - Add iOS support for cross-platform compatibility
