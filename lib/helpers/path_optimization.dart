@@ -34,7 +34,7 @@ class _MapRouteWidgetState extends State<MapRouteWidget> {
     latlng.LatLng(30.933178, 76.538471), // Location 3
   ];
 
-  final String graphHopperApiKey = 'f14f8078-1422-457c-978c-67c9a9210fb7';
+  final String graphHopperApiKey = 'ENTER_YOUR_API_KEY';
   final String optimizationUrl = 'https://graphhopper.com/api/1/vrp';
   final String routingUrl = 'https://graphhopper.com/api/1/route';
 
